@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Vạn Kiếp Tu Tiên - MOD Panel v3.1.3 [VIP Protected]
+// @name         Vạn Kiếp Tu Tiên - MOD Panel [VIP Protected]
 // @namespace    http://tampermonkey.net/
 // @version      3.1.37
 // @description  Bảng MOD Trực Tiếp Vạn Kiếp Tu Tiên v3 - Lão Gia Gia (Dược Lão) Chỉ Điểm Cơ Duyên, Khóa Thiết Bị 1 Máy 1 Key
